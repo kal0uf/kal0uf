@@ -1,4 +1,5 @@
 Hi there, I'm Manas Damle👋
+
 I'm a Computer Science student heading to TU Delft next year, passionate about turning data into insights and building intelligent systems. My goal is to become a Data Scientist / AI Engineer.
 
 🎓 Education
